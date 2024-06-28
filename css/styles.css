@@ -1,5 +1,7 @@
 body {
-    font-family: roboto; sans-serif
+    font-family: "roboto"; sans-serif;
+    color: #434455;
+    background-color :#FFFFFF;
 }
 
 ul {
@@ -11,16 +13,26 @@ a {
 }
 
 .header-logo {
-    font-weight: 700;
+    font-family: "Raleway"
+font-weight: 700;
 font-size: 18px;
 line-height: 117%;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #2E2F42;
+color: #4D5AE5;
 }
 
 .header-logo-iris {
-color: #4D5AE5;
+color: #2E2F42;
+}
+
+
+.header-menu {
+    font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: #2E2F42;
 }
 
 .header-menu-item {
@@ -32,6 +44,7 @@ color: #2E2F42;
 }
 
 .header-soc-item {
+    font-style: normal
     font-weight: 400;
 font-size: 16px;
 line-height: 150%;
@@ -56,7 +69,8 @@ color: #FFFFFF;
 }
 
 .hero-btn {
-    border-radius: 4px;
+    font-family: "Roboto", sans-serif; 
+border-radius: 4px;
 padding: 16px 32px;
 width: 169px;
 height: 56px;
@@ -66,7 +80,7 @@ font-weight: 500;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.04em;
-color: #FFFFFF;
+color: #404BBF;
 }
 
 .special-titl {
@@ -86,7 +100,8 @@ color: #434455;
 }
 
 .team {
-    background: #F4F4FD;
+    text-transform: capitalize;
+background-color: #FFFFFF;
 }
 
 .team-hidden {
@@ -118,6 +133,10 @@ text-align: center;
 color: #434455;
 }
 
+.portfolio {
+    text-transform: capitalize;
+}
+
 .portfolio-hidden {
     font-weight: 700;
 font-size: 36px;
@@ -144,7 +163,8 @@ color: #434455;
 }
 
 .footer {
-    background: #2E2F42;
+    font-family: "Raleway";
+background: #2E2F42;
 }
 
 .footer-logo {
@@ -158,7 +178,7 @@ color: #F4F4FD;
 }
 
 .footer-logo-iris {
-    color: #4D5AE5;
+    color: #F4F4FD;
 }
 
 .footer-txt {
@@ -166,5 +186,5 @@ color: #F4F4FD;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
-color: #F4F4FD;
+color: #4D5AE5;
 }
