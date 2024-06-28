@@ -12,8 +12,13 @@ a {
     text-decoration: none;
 }
 
+.header {
+    font-family: "Raleway", sans-serif;
+font-weight: 700;
+}
+
 .header-logo {
-    font-family: "Raleway"
+    font-family: "Roboto", sans-serif;
 font-weight: 700;
 font-size: 18px;
 line-height: 117%;
@@ -32,7 +37,7 @@ color: #2E2F42;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
-color: #2E2F42;
+color:  #2e2f42;
 }
 
 .header-menu-item {
@@ -40,16 +45,28 @@ color: #2E2F42;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
-color: #2E2F42;
+color: #404bbf;
+}
+
+.header-soc {
+    font-style: normal;
+color: #434455;
 }
 
 .header-soc-item {
-    font-style: normal
     font-weight: 400;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
-color: #434455;
+color: #404bbf;
+}
+
+.header-soc-link {
+    font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: #404bbf;
 }
 
 .hero {
@@ -101,7 +118,7 @@ color: #434455;
 
 .team {
     text-transform: capitalize;
-background-color: #FFFFFF;
+background-color: #F4F4FD;
 }
 
 .team-hidden {
@@ -111,6 +128,10 @@ line-height: 111%;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2E2F42;
+}
+
+.team-list {
+    background-color: #FFFFFF
 }
 
 .team-titl {
@@ -168,12 +189,13 @@ background: #2E2F42;
 }
 
 .footer-logo {
-    font-weight: 700;
+    font-family: "Raleway", sans-serif;
+font-weight: 700;
 font-size: 18px;
 line-height: 117%;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #F4F4FD;
+color: #4d5ae5;
 
 }
 
@@ -186,5 +208,5 @@ color: #F4F4FD;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
-color: #4D5AE5;
+color: #F4F4FD;
 }
