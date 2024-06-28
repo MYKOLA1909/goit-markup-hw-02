@@ -86,13 +86,13 @@ color: #FFFFFF;
 }
 
 .hero-btn {
-    border-radius: 4px;
-    padding: 16px 32px;
-    width: 169px;
-    height: 56px;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-    background: var(--iris);
-    color: #ffffff
+border-radius: 4px;
+padding: 16px 32px;
+width: 169px;
+height: 56px;
+box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+background: #404BBF;
+color: #ffffff;
 }
 
 .hero-type {
@@ -100,8 +100,9 @@ color: #FFFFFF;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.04em;
-color: var(--white);
-    
+cursor: pointer;
+color: #FFFFFF;
+background-color: #404BBF;  
 }
 
 .special-titl {
