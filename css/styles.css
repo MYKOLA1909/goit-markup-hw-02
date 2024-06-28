@@ -118,7 +118,7 @@ color: #434455;
 
 .team {
     text-transform: capitalize;
-    background-color: #FFFFFF;
+    background-color: #F4F4FD;
 }
 
 .team-hidden {
@@ -128,6 +128,7 @@ line-height: 111%;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2E2F42;
+background-color: #FFFFFF
 }
 
 .team-list {
