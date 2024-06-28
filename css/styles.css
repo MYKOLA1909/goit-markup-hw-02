@@ -86,18 +86,22 @@ color: #FFFFFF;
 }
 
 .hero-btn {
-    font-family: "Roboto", sans-serif; 
-border-radius: 4px;
-padding: 16px 32px;
-width: 169px;
-height: 56px;
-box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-background: #4D5AE5;
-font-weight: 500;
+    border-radius: 4px;
+    padding: 16px 32px;
+    width: 169px;
+    height: 56px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+    background: var(--iris);
+    color: #ffffff
+}
+
+.hero-type {
+    font-weight: 500;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.04em;
-color: #404BBF;
+color: var(--white);
+    
 }
 
 .special-titl {
@@ -132,7 +136,11 @@ background-color: #FFFFFF
 }
 
 .team-list {
-    background-color: #FFFFFF
+    background-color: #FFFFFF;
+}
+
+.team-item {
+    background-color: #FFFFFF;
 }
 
 .team-titl {
