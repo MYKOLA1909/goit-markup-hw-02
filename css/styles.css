@@ -44,13 +44,16 @@ color:  #2e2f42;
     color: #404bbf;
 }
 
-.header-soc-titl {
+.header-soc {
     font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
-color: #2e2f42;
+}
+
+.header-soc-titl {
+color: #434455;
 }
 
 .header-soc-titl:hover,
@@ -94,12 +97,12 @@ text-align: center;
 cursor: pointer;
 box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 background-color: #4D5AE5;
-color: #434455 ;
+color: #ffffff ;
 }
 
 .hero-btn:hover,
 .hero-btn:active  {
-  color: #404bbf;
+  color: #404BBF;
 background-color: #404BBF;  
 }
 
