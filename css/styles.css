@@ -1,5 +1,5 @@
 body {
-    font-family: "roboto"; sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #434455;
     background-color :#FFFFFF;
 }
@@ -53,12 +53,8 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 }
 
-.header-soc-titl {
-    color: #2e2f42;
-}
-
-.header-soc-item,
-.header-soc-link {
+.header-soc-item:hover,
+.header-soc-item:active {
     color: #404bbf;
 }
 
@@ -101,9 +97,9 @@ background-color: #4D5AE5;
 color: #FFFFFF;
 }
 
-.hero-btn:hover.
+.hero-btn:hover,
 .hero-btn:active  {
-  color: #FFFFFF;
+  color: #404bbf;
 background-color: #404BBF;  
 }
 
