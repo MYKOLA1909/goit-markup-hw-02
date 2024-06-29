@@ -65,9 +65,7 @@ color: #434455;
 }
 
 .hero {
-    width: 1440px;
-height: 600px;
-font-weight: 700;
+   font-weight: 700;
 font-size: 56px;
 line-height: 107%;
 letter-spacing: 0.02em;
