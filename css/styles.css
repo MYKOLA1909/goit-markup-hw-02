@@ -150,8 +150,7 @@ background-color: #FFFFFF
 }
 
 .team-titl {
-    font-family: var(--font-family);
-font-weight: 500;
+    font-weight: 500;
 font-size: 20px;
 line-height: 120%;
 letter-spacing: 0.02em;
@@ -160,8 +159,7 @@ color: #2E2F42;
 }
 
 .team-txt {
-    font-family: var(--font-family);
-font-weight: 400;
+    font-weight: 400;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.02em;
