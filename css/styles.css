@@ -47,6 +47,7 @@ color:#2e2f42;
 }
 
 .header-soc {
+    font-family: "Roboto", sans-serif;
     font-style: normal;
 font-weight: 400;
 font-size: 16px;
@@ -131,11 +132,10 @@ line-height: 111%;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2E2F42;
-background-color: #FFFFFF
 }
 
 .team-list {
-    background-color: #FFFFFF;
+
 }
 
 .team-item {
@@ -190,7 +190,6 @@ color: #434455;
 }
 
 .footer {
-    font-family: "Raleway";
 background: #2E2F42;
 }
 
